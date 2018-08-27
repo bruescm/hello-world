@@ -1,2 +1,2 @@
 # hello-world
-Test Bruesch Repos
+Testing GitHub for SQL Server Version Control
